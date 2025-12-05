@@ -4,10 +4,6 @@
 
 <h2 align="center">AHMAD AZIZIE ADNAN</h2>
 
-<p align="center">
-  <i>beginner developer • bot enthusiast • web & automation learner</i>
-</p>
-
 ---
 
 ## ✨ About Me
@@ -43,16 +39,20 @@ Right now, I'm focusing on improving my skills in **JavaScript**, **Node.js**, a
 
 ---
 
-## 🎧 Typing Animation
+## 🎧 Favorite Song
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2700&pause=1200&color=7A5AF5&center=true&vCenter=true&width=500&lines=Beginner+Developer;JavaScript+%7C+Node.js+Learner;Bot+Developer;Always+Learning+New+Things+%3A)" />
+  <img src="https://img.shields.io/badge/Favorite%20Song-Multo%20by%20Cup%20of%20Joe-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
+
+> *"Multo" — Cup of Joe*  
+A calming, emotional track that hits different.  
+This song inspires my vibe when coding ✨
 
 ---
 
 ## 📭 Reach Me
 - Telegram: **[@Pherine](https://t.me/Pherine)**  
-- Email: **ziziadnan767@gmail.com**  
+- Email: **ziziadnan767@gmail.com**
 
 ---
 
