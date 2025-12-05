@@ -4,6 +4,10 @@
 
 <h2 align="center">AHMAD AZIZIE ADNAN</h2>
 
+<p align="center">
+  <i>beginner developer • bot enthusiast • web & automation learner</i>
+</p>
+
 ---
 
 ## ✨ About Me
@@ -40,31 +44,38 @@ Right now, I'm focusing on improving my skills in **JavaScript**, **Node.js**, a
 ---
 
 ## 🎧 Favorite Song
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Favorite%20Song-Multo%20by%20Cup%20of%20Joe-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/track/7gVzHjvVZNV0MZDsPSRSPp" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b273fe75b03d265c6c171a3ec949" 
+         width="300" 
+         style="border-radius:14px;"
+         alt="Multo - Cup of Joe">
+  </a>
 </p>
 
-> Multo — Cup of Joe
-Hindi na makalaya
-Dinadalaw mo 'ko bawat gabi
-Wala mang nakikita
-Haplos mo'y ramdam pa rin sa dilim
->
-Hindi na nananaginip
-Hindi na ma-makagising
-Pasindi na ng ilaw
-Minumulto na 'ko ng damdamin ko
-Ng damdamin ko
->
-Hindi mo ba ako lilisanin?
-Hindi pa ba sapat pagpapahirap sa 'kin? (Damdamin ko)
-Hindi na ba ma-mamamayapa?
-Hindi na ba ma-mamamayapa?
+<p align="center">
+  <img src="https://img.shields.io/badge/Now%20Playing-MULTO%20%E2%80%94%20Cup%20of%20Joe-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</p>
+
+> Hindi na makalaya  
+> Dinadalaw mo 'ko bawat gabi  
+> Wala mang nakikita  
+> Haplos mo'y ramdam pa rin sa dilim  
+> Hindi na nananaginip  
+> Hindi na ma-makagising  
+> Pasindi na ng ilaw  
+> Minumulto na 'ko ng damdamin ko  
+> Ng damdamin ko  
+> Hindi mo ba ako lilisanin?  
+> Hindi pa ba sapat pagpapahirap sa 'kin? (Damdamin ko)  
+> Hindi na ba ma-mamamayapa?  
+> Hindi na ba ma-mamamayapa?
 
 ---
 
 ## 📭 Reach Me
-- Telegram: **[@Pherine](https://t.me/Pherine)**  
+- Telegram: **[@Pherine](https://t.me/Pherine)**
 - Email: **ziziadnan767@gmail.com**
 
 ---
