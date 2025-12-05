@@ -44,9 +44,22 @@ Right now, I'm focusing on improving my skills in **JavaScript**, **Node.js**, a
   <img src="https://img.shields.io/badge/Favorite%20Song-Multo%20by%20Cup%20of%20Joe-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
-> *"Multo" — Cup of Joe*  
-A calming, emotional track that hits different.  
-This song inspires my vibe when coding ✨
+> Multo — Cup of Joe
+Hindi na makalaya
+Dinadalaw mo 'ko bawat gabi
+Wala mang nakikita
+Haplos mo'y ramdam pa rin sa dilim
+
+Hindi na nananaginip
+Hindi na ma-makagising
+Pasindi na ng ilaw
+Minumulto na 'ko ng damdamin ko
+Ng damdamin ko
+
+Hindi mo ba ako lilisanin?
+Hindi pa ba sapat pagpapahirap sa 'kin? (Damdamin ko)
+Hindi na ba ma-mamamayapa?
+Hindi na ba ma-mamamayapa?
 
 ---
 
