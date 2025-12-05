@@ -4,10 +4,6 @@
 
 <h2 align="center">AHMAD AZIZIE ADNAN</h2>
 
-<p align="center">
-  <i>beginner developer • bot enthusiast • web & automation learner</i>
-</p>
-
 ---
 
 ## ✨ About Me
@@ -44,16 +40,6 @@ Right now, I'm focusing on improving my skills in **JavaScript**, **Node.js**, a
 ---
 
 ## 🎧 Favorite Song
-
-<p align="center">
-  <a href="https://open.spotify.com/track/7gVzHjvVZNV0MZDsPSRSPp" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273fe75b03d265c6c171a3ec949" 
-         width="300" 
-         style="border-radius:14px;"
-         alt="Multo - Cup of Joe">
-  </a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Now%20Playing-MULTO%20%E2%80%94%20Cup%20of%20Joe-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </p>
