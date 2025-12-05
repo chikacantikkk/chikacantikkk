@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Urz1ee/Urz1ee/refs/heads/main/logo.png" alt="Ziee" width="400"/>
+  <img src="https://raw.githubusercontent.com/zieecantikkk/zieecantikkk/refs/heads/main/logo.png" alt="Ziee" width="400"/>
 </p>
 
 ---
@@ -29,16 +29,22 @@ I believe that being a developer is not only about writing code, but also about 
 
 ---
 
-### 🚀 Favorite Languages
+### ⚡ Skills
 <p>
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <!-- JavaScript (90%) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript — 90%"/>
+
+  <!-- HTML (80%) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML — 80%"/>
+
+  <!-- CSS (80%) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS — 80%"/>
+
+  <!-- C# (30%) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C# — 30%"/>
+
+  <!-- C++ (20%) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++ — 20%"/>
 </p>
 
 ---
