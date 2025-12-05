@@ -1,71 +1,61 @@
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1BCBF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Ahmad+Azizie+Adnan;Junior+Developer;WhatsApp+Bot+Developer;Telegram+Bot+Developer;Web+Developer;Always+Learning+New+Things!">
+  <img src="https://raw.githubusercontent.com/zieecantikkk/zieecantikkk/refs/heads/main/logo.png" width="380"/>
 </p>
 
-<!-- Logo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Urz1ee/Urz1ee/refs/heads/main/logo.png" alt="Ziee" width="400"/>
-</p>
-
----
-
-## 👋 About Me
-I'm a **junior developer** who enjoys building projects using **JavaScript**, **HTML**, and **CSS**.  
-My main focus is creating:
-
-- WhatsApp Bots (Baileys)  
-- Telegram Bots  
-- Simple & responsive websites  
-- API-based automation tools  
-
-Even though I'm still learning, I love experimenting, problem-solving, and turning ideas into real functioning code.  
-Currently I'm improving my **JavaScript & Node.js** skills while learning the basics of **C#** and **C++**.
-
----
-
-## 🚀 Skills (with Percentages)
-
-### JavaScript — **90%**
-![JS](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript)
-
-### HTML — **80%**
-![HTML](https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5)
-
-### CSS — **80%**
-![CSS](https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3)
-
-### C# — **30%**
-![C#](https://img.shields.io/badge/C%23-30%25-purple?style=for-the-badge&logo=csharp)
-
-### C++ — **20%**
-![C++](https://img.shields.io/badge/C++-20%25-lightgrey?style=for-the-badge&logo=cplusplus)
-
----
-
-## 🧰 Skill Icons
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript 90%"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" title="HTML 80%"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" title="CSS 80%"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" title="C# 30%"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++ 20%"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urz1ee&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Urz1ee&show_icons=true&theme=tokyonight" height="170"/>
-</p>
+<h2 align="center">AHMAD AZIZIE ADNAN</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urz1ee&layout=compact&theme=tokyonight" height="170"/>
+  <i>beginner developer • bot enthusiast • web & automation learner</i>
 </p>
 
 ---
 
-## 📭 Contact
-- Telegram: https://t.me/Pherine  
-- Email: [ziziadnan767@gmail.com](mailto:ziziadnan767@gmail.com)
+## ✨ About Me
+I'm a beginner **developer** who loves exploring the world of programming.  
+I enjoy creating **WhatsApp Bots**, **Telegram Bots**, and **simple websites**.  
+Coding is more than just writing lines—it's about building something meaningful and learning every day.
+
+Right now, I'm focusing on improving my skills in **JavaScript**, **Node.js**, and **Web Development**, especially automation and API integration.
+
+---
+
+## 🌱 Currently Learning
+- WhatsApp & Telegram **Bot Development**
+- HTML, CSS, JavaScript, and basic **frontend design**
+- **Node.js backend** fundamentals
+- API usage, automation flows, and lightweight system logic
+
+<p align="left">
+  <img src="https://img.shields.io/badge/wakatime-735%20hrs%203%20mins-6C63FF?logo=wakatime&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Profile%20views-10,441-97DECE?style=flat-square"/>
+</p>
+
+---
+
+## ⚡ Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" title="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" title="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
+</p>
+
+---
+
+## 🎧 Typing Animation
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2700&pause=1200&color=7A5AF5&center=true&vCenter=true&width=500&lines=Beginner+Developer;JavaScript+%7C+Node.js+Learner;Bot+Developer;Always+Learning+New+Things+%3A)" />
+</p>
+
+---
+
+## 📭 Reach Me
+- Telegram: **[@Pherine](https://t.me/Pherine)**  
+- Email: **ziziadnan767@gmail.com**  
+
+---
+
+<p align="center">
+  <i>“Small progress is still progress — keep building, keep learning.”</i>
+</p>
